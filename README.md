@@ -20,15 +20,3 @@ fora do intervalo permitido a cada jogo;
 6. A aplicação deve exibir o total gasto em reais com cada aposta;
 7. Refatore sua aplicação ao longo do desenvolvimento, removendo trechos de lógica que se
 repetem.
-
-Observações:
-• O trabalho deve ser feito em grupo de até 3 integrantes.
-• Você poderá tirar suas dúvidas no e-mail jefferson.chaves@araquari.ifpr.edu.br com o assunto
-[duvida projeto loteria – seu nome];
-• A entrega deverá ser realizada enviando o link do seu projeto no github.com.
-• As regras de cada jogo, bem como o número mínimo e máximo de dezenas e seus respectivos
-valores, podem ser consultado em:
-a. http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena
-b. http://loterias.caixa.gov.br/wps/portal/loterias/landing/quina
-c. http://loterias.caixa.gov.br/wps/portal/loterias/landing/lotomania
-d. http://loterias.caixa.gov.br/wps/portal/loterias/landing/lotofacil
